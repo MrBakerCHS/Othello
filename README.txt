@@ -1,5 +1,7 @@
 # README for Othello #
 
+To see the project working follow this URL https://studio.code.org/projects/applab/UGRRBNzBPeuNMmSOadZIPHqTXGxOJ2zaCEzdCAY3L5A
+
 This is the README file for the Othello app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
 about the other files in this folder.
@@ -13,7 +15,7 @@ The files in this folder contain everything you need to run your app:
 
 * `index.html` - This is the html file that you designed in applab using the
   Design tab. It contains all the buttons, text inputs, and other controls for
-  your app. Go here to add additional controls to your app.
+  your app. Go here to add additional controls to your app. However upon further inspection there is a log of gibberish commands in this file
 
 * `style.css` - This file defines the custom styling for each control in your
   app that you specified under the Design tab. Go here to change the colors,
